@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bau_cua/static/css/main.bff36c17.chunk.css",
+    "main.js": "/bau_cua/static/js/main.8e1e0c17.chunk.js",
+    "main.js.map": "/bau_cua/static/js/main.8e1e0c17.chunk.js.map",
+    "runtime-main.js": "/bau_cua/static/js/runtime-main.d8bfc731.js",
+    "runtime-main.js.map": "/bau_cua/static/js/runtime-main.d8bfc731.js.map",
+    "static/css/2.250f99c7.chunk.css": "/bau_cua/static/css/2.250f99c7.chunk.css",
+    "static/js/2.79ffb31d.chunk.js": "/bau_cua/static/js/2.79ffb31d.chunk.js",
+    "static/js/2.79ffb31d.chunk.js.map": "/bau_cua/static/js/2.79ffb31d.chunk.js.map",
+    "static/js/3.6a1d5cf2.chunk.js": "/bau_cua/static/js/3.6a1d5cf2.chunk.js",
+    "static/js/3.6a1d5cf2.chunk.js.map": "/bau_cua/static/js/3.6a1d5cf2.chunk.js.map",
+    "index.html": "/bau_cua/index.html",
+    "static/css/2.250f99c7.chunk.css.map": "/bau_cua/static/css/2.250f99c7.chunk.css.map",
+    "static/css/main.bff36c17.chunk.css.map": "/bau_cua/static/css/main.bff36c17.chunk.css.map",
+    "static/js/2.79ffb31d.chunk.js.LICENSE.txt": "/bau_cua/static/js/2.79ffb31d.chunk.js.LICENSE.txt",
+    "static/media/BaiTapGameBauCua.css": "/bau_cua/static/media/Pony.99ddd1e5.ttf",
+    "static/media/font-awesome.min.css": "/bau_cua/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8bfc731.js",
+    "static/css/2.250f99c7.chunk.css",
+    "static/js/2.79ffb31d.chunk.js",
+    "static/css/main.bff36c17.chunk.css",
+    "static/js/main.8e1e0c17.chunk.js"
+  ]
+}
