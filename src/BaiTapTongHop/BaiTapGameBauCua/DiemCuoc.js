@@ -3,11 +3,10 @@ import { useDispatch, useSelector } from "react-redux";
 
 export default function DiemCuoc() {
   const dispatch = useDispatch();
+
   const tongDiem = useSelector(
     (state) => state.BaiTapGameBauCuaReducer.tongDiem
   );
-
-  console.log(tongDiem);
 
   return (
     <div>

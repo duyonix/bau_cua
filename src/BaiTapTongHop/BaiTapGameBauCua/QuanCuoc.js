@@ -25,11 +25,11 @@ export default function QuanCuoc(props) {
 
   return (
     <div className="mt-3 ">
-      <img src={quanCuoc.hinhAnh} style={{ width: 250 }} alt="" />
+      <img src={quanCuoc.hinhAnh} style={{ width: 200 }} alt="bau cua" />
 
       <div
         className="bg-success mt-2 pb-2 text-center"
-        style={{ borderRadius: "10px", width: 250 }}
+        style={{ borderRadius: "10px", width: 200 }}
       >
         <animated.button
           style={{
